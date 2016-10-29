@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\Datastore\Datastore\bin\Debug\Datastore.dll.config
+c:\users\user\documents\visual studio 2013\Projects\Datastore\Datastore\bin\Debug\Datastore.dll
+c:\users\user\documents\visual studio 2013\Projects\Datastore\Datastore\bin\Debug\Datastore.pdb
+c:\users\user\documents\visual studio 2013\Projects\Datastore\Datastore\bin\Debug\EntityFramework.dll
+c:\users\user\documents\visual studio 2013\Projects\Datastore\Datastore\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2013\Projects\Datastore\Datastore\bin\Debug\EntityFramework.xml
+c:\users\user\documents\visual studio 2013\Projects\Datastore\Datastore\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2013\Projects\Datastore\Datastore\obj\Debug\Datastore.dll
+c:\users\user\documents\visual studio 2013\Projects\Datastore\Datastore\obj\Debug\Datastore.pdb
